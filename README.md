@@ -35,8 +35,6 @@ You must migrate the election smart contract each time your restart ganache.
 
 ## Step 5. Configure Metamask
 
-See free video tutorial for full explanation of these steps:
-
 - Unlock Metamask
 - Connect metamask to your local Etherum blockchain provided by Ganache.
 - Import an account provided by ganache.
